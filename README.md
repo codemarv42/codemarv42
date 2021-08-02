@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @codemarv42
+- 👀 I'm interested in developing new hardware and the corresponding software, which I mostly write in C or C++.
