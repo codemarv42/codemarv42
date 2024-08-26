@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemarv42&label=Profile%20views&color=0e75b6&style=flat" alt="codemarv42" /> </p>
 
-- 🔭 I’m currently working on [GeigerOS](https://github.com/codemarv42/RoboCore)
+- 🔭 I’m currently working on [RoboCore](https://github.com/codemarv42/RoboCore)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
